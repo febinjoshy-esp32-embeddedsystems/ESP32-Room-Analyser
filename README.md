@@ -3,8 +3,8 @@ A device which measures room parameters such as Temperature, Humidity,Illuminanc
 
 ## HARDWARE USED
 - ESP32 Devkit
-- DHT11
-- KY038
+- DHT11 Sensor
+- KY038 Sensor 
 - LDR
 - 2420 Ohm resistor 
 - 3 LED's
