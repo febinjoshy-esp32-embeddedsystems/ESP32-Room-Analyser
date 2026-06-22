@@ -9,4 +9,4 @@ A device which measures room parameters such as Temperature, Humidity,Illuminanc
 - 2420 Ohm resistor 
 - 3 LED's
 - Two 220 Ohm resistor 
-- LCD I2C Display 
+- LCD I2C Display 16x2 
